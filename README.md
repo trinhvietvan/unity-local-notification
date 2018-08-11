@@ -4,9 +4,9 @@
 
 **How to use:**
 
-1 - Drag "Local Notification" prefab to your first scene
+1 - Drag `Local Notification` prefab to your first scene
 
-2 - Just call LocalNotify.Instance.RegisterScheduleNotification()
+2 - Just call `LocalNotify.Instance.RegisterScheduleNotification()`
  
  
 **Notice:**
