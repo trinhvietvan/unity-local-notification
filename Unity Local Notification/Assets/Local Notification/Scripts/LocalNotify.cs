@@ -70,5 +70,6 @@ public class LocalNotify : MonoBehaviour
     private void SetScheduleNotification()
     {
         pluginBridge.SetScheduleNotification();
+        PlayerPrefs.Save();
     }
 }
