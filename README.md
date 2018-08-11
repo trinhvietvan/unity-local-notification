@@ -14,6 +14,6 @@
 Don't change the name or delete 2 icon files `notify_icon_big.png` and `notify_icon_small.png` in folder `Assets/Plugins/res/drawable`. Just edit them with Photoshop, ...
  
  
-**Custom Plugin Source:**
+**Customize Android Plugin:**
 
   If you change Android plugin source and rebuild AAR file, please open the AAR file with WinRar and delete all `drawable` and `res` folder inside AAR file
