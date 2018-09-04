@@ -6,7 +6,7 @@
 
 1 - Drag `Local Notification` prefab to your first scene
 
-2 - Just call `LocalNotify.Instance.RegisterScheduleNotification()`. The notification that you registered will be fire when delay time reached from application Quit or Pause.
+2 - Just call `LocalNotify.Instance.RegisterScheduleNotification()`. The notification that you registered will be fire when delay time reached (Notification only fire when app is in background or don't run)
  
  
 **Notice:**
