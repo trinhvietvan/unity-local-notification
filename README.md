@@ -11,7 +11,7 @@
  
 **Notice:**
 
-Don't change the name or delete 2 icon files `notify_icon_big.png` and `notify_icon_small.png` in folder `Assets/Plugins/res/drawable`. Just edit them with Photoshop, ...
+If you want to custom notification icon, create 2 PNG file `notify_icon_big.png`, `notify_icon_small.png` and copy to folder `Assets/Plugins/res/drawable` in your Unity project
  
  
 **Customize Android Plugin:**
